@@ -200,34 +200,3 @@ footer p {
 .contact-main-container img {
     width: 100px;
 }
-.Profile-info-container {
-    width: 100%;
-    height: auto;
-    padding: 70px 0 70px 0;
-    background-color: #e6e9ed;
-}
-.profile-text-info h1 {
-    font-size: 30px;
-}
-.Profile-info-container .info-container {
-    display: flex;
-    gap: 40px;
-}
-.Profile-info-container div img {
-    width: 40%;
-}
-.profile-projects-container {
-    width: 100%;
-    text-align: center;
-}
-.profile-projects-container div h2 {
-    padding: 40px 0;
-    border-bottom: 1px solid #cdd2da;
-}
-.projects-container {
-    display: flex;
-    gap: 20px;
-}
-.project-container {
-    text-align: initial;
-}
